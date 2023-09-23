@@ -5,9 +5,8 @@
 <h3 align="center">I'm a passionate front-end developer with a knack for creating clean and responsive web applications.</h3> 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Taiye Ajimati&label=Profile%20views&color=0e75b6&style=flat" alt="Taiye Ajimati" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Teewaii&label=Profile%20views&color=0e75b6&style=flat" alt="Teewaii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Taiye Ajimati&theme=" alt="Taiye Ajimati" /></a> </p>
 
 - 🔭 I’m currently working on [A real-estate web application project](https://teewaii.github.io/ProperLand/)
 
