@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Taiye Ajimati</h1>
-<h3 align="left">I'm a passionate software engineer and machine learning specialist with a knack for crafting and launching sleek, adaptable web applications, as well as practical web-based AI solutions.</h3> 
+<h3 align="left">I'm a passionate software engineer and machine learning/BI and Data Analyst specialist with a knack for crafting and launching sleek, adaptable web applications, as well as practical web-based AI solutions.</h3> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Teewaii&label=Profile%20views&color=0e75b6&style=flat" alt="Teewaii" /> </p>
